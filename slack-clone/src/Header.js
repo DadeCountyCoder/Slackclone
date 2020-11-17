@@ -10,9 +10,11 @@ function Header() {
         <div className="header__left">
         <Avatar
             className="header__avatar"
-            alt={user?.displayname}
+            alt="Alfredo"
+            src=""
             // alt={user?.displayname}
-            src={user?.photoURL}
+            // src={user?.photoURL}
+            
             />
             <AccessTimeIcon />
     {/* Avatars for logged in user */}
@@ -20,6 +22,7 @@ function Header() {
         </div>
         <div className="header+_search">
             <SearchIcon />
+            <input placeholder="Search My SHit"></input>
          {/* Search icon */}
          {/* input */}   
     </div>
