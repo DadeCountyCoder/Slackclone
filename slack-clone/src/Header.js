@@ -22,7 +22,7 @@ function Header() {
         </div>
         <div className="header+_search">
             <SearchIcon />
-            <input placeholder="Search My SHit"></input>
+            <input placeholder="Get your Searches here!"></input>
          {/* Search icon */}
          {/* input */}   
     </div>
