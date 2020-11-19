@@ -10,9 +10,9 @@ react context api (redux)
 
 material UI - makes icons & mske it look nice
 
-css variaibles - colors
+css variaibles - colors/background
 
-flexbox - spacing
+flexbox - spacing/appearance
 
 deply with firebase hosting
 
